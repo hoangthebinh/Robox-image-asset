@@ -1,0 +1,21 @@
+<span style = 'color: #FD832F'>đi thẳng</span>
+<span style = 'color: #FD832F'>rẽ trái</span>
+<span style = 'color: #FD832F'>dừng</span>
+<span style = 'color: #FD832F'>rẽ phải</span>
+<span style = 'color: #FD832F'>đi lùi</span>
+
+<span style = 'color: #FD832F'>nốt nhạc</span>
+<span style = 'color: #ff0000'>màu đỏ</span>
+<span style = 'color: #ff9900'>màu cam</span>
+<span style = 'color: #3333ff'>màu xanh</span>	(da trời)
+<span style = 'color: #000000'>tắt đèn</span>
+
+<span style = 'color: #FD832F'>gặp vật cản</span>
+<span style = 'color: #FD832F'>bị nhấc lên</span>
+
+<span style = 'color: #ff96a9'>số </span>
+
+<span style = 'color: #FD832F'>liên tục</span>
+<span style = 'color: #FD832F'>chờ</span>
+<span style = 'color: #FD832F'>vòng lặp</span>
+<span style = 'color: #FD832F'>lặp lại</span>
